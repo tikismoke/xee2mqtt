@@ -7,8 +7,8 @@ import sys
 import paho.mqtt.client as paho
 import pytz
 
-import xee_sdk_python.xee.entities as xee_entities
-from xee_sdk_python.xee import AuthScope, Xee
+import xee.entities as xee_entities
+from xee import AuthScope, Xee
 
 broker="YOUR MQTT BROKER IP OR NAME"
 port=YOUR MQTT PORT
