@@ -59,3 +59,9 @@ Run at least in console once to generate the auth code needed (follow the link t
 It will the create a xee.json file contain token and refresh token for next calls.
 
 You can now create a cron rules to call this script every 5/10/20/30/60 minutes as you want.
+
+
+NOTE
+----
+
+Indeed you need also an mqt server and lib to communicate with.
