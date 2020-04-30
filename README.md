@@ -27,7 +27,7 @@ For the moment follow this procedure:
 
 ```
 git clone https://github.com/tikismoke/xee-sdk-python
-cd xee-sdk-plugin
+cd xee-sdk-python
 git checkout patch-1
 python setup.py install
 ```
