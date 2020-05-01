@@ -21,6 +21,9 @@ Select at least those scope:
 
 -vehicles.events.read
 
+Redirect_url is important be sure it's the same as used in the code here:
+https://github.com/tikismoke/xee2mqtt/blob/a2b60b27b9fc95f6626a2d7274b642a03437ebf9/xee2mqtt.py#L29
+
 `When patch will be available you will need to install https://github.com/quentin7b/xee-sdk-python`
 
 For the moment follow this procedure:
